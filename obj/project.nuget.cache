@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Lr2mO69rDdqndhkL359a2T/EdFji41k0MJFNtI7UpsHFTilCyFlru3frBro6aE3tYWRwbEa2uYcSv9RLg6+Mg==",
+  "success": true,
+  "projectFilePath": "/Users/artem/Desktop/C#/MainCourse/12-Strings/TicketsAggregatorApp/TicketsAggregatorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/artem/.nuget/packages/pdfpig/0.1.9-alpha-20230930-06ac8/pdfpig.0.1.9-alpha-20230930-06ac8.nupkg.sha512"
+  ],
+  "logs": []
+}
